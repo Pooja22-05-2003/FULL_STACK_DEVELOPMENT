@@ -1,0 +1,47 @@
+<!-- 
+Learning Attributes, Tags
+
+1.1 HTML Attributes:
+-> Provide additional information about elements.
+-> Placed with opening tags.
+-> Common examples: href, src,alt
+-> Can be single or multiple per elements
+
+FORMAT: <tag attribute="value"> Text Content </tag>
+
+
+----------------------------------------------------------------------
+
+1.2 ID Attribute property
+
+-> UNIQUE IDENTIFIER: Each id should be unique within a page.
+-> Anchoring: Allows for direct links to sections using the #id syntax in URLs.
+-> CSS and Javascript: Used for selecting elements for styling or scripting.
+
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
+
+2.1 Heading Tag
+
+-> Defines heading in a document
+-> Rages from <h1> to <h6>
+-> [Only used for importance not for size, size we can adjust using the css) <h1> is most important, <h6> is least (importance - Important for SEO)
+
+
+
+2.2 Paragaph Tag
+
+-> Used for Defining paragraphs.
+-> Enclosed withing <p> and </p> tags
+-> Adds automatic spacing before and after
+-> Text Wraps to next line inside tag.
+-> Common in text-heaven tag
+
+
+2.3 <hr> tag and <br> tag...notes present in 00_Notes file (Link)
+-->
+
