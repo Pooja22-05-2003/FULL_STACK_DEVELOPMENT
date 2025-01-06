@@ -1,0 +1,30 @@
+/*
+1. Node.js Basics:
+2. Introduction to Node.js
+3. Installing Node.js and npm.
+4. Working with modules.
+
+2 core modules of node.js
+5. File system operations
+6. understanding HTTP module.
+
+
+
+*/
+
+/*
+Imp Points 
+1. Node.js is not a programming language,technology,framework,library
+2. It is Javascript runtime environment.
+
+[Js se backend nahi ban skta, kyuki js ke paas wo functionalities nahi hai jinse backend banta hai]
+
+Ryan dahl ne socha js se backend banna chahiye,Google chrome ka v8 enginer ka code open source hai and ryan dahl us code mein chhedkhaani kar raha hai.
+
+Fir Ryan dahl ne socha ki humein to js mein code krna hai, and chrome ka v8 enginer bana hai c++ mein.
+
+Hum js ka code likhenge jo ki wrapper layer of js receive karega and wo code v8 enginer ke c++ modules ke saath ek server create karega.
+
+Node.Js == v8+ Js
+
+*/
