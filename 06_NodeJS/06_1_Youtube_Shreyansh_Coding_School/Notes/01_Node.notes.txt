@@ -2,6 +2,9 @@
 1. Node.js Basics:
 2. Introduction to Node.js
 3. Installing Node.js and npm.
+  3.1 working with node and npm
+  3.2 npm init
+  3.3 node basic usage
 4. Working with modules.
 
 2 core modules of node.js
@@ -27,4 +30,15 @@ Hum js ka code likhenge jo ki wrapper layer of js receive karega and wo code v8 
 
 Node.Js == v8+ Js
 
+
+** Node se chalaya hua Javascript ka code server bana skta hai, jo ki javascript code akela nhi kr paa rha tha.
+
+* npm is nodeJs package manager.
+npm ek jagah hai jaha par log apne diff packages ko upload krte hai  and these difference packages do different work.
+
+
+
+3.2 npm init- lekha jokha of the project
 */
+
+

@@ -1,0 +1,12 @@
+http and https
+
+1. HTTP
+
+Q1  What is protocol?
+-> Protocol means rules
+-> Internet par kuch bhi karne ke liye rules banaye gye hai, unke dwaara jinhone internet bananaya hai.Ab un rules ko follow krna bhot zaruri hai , aur ye rules follow ho isliye ye rules aap ke operating system ke software mei preinstalled ate hai.
+
+-> Yahi protocol hai ya rule hai jisko follow kre bina aap internet pe naa hi kuch bhej skte ho , naa hi kuch manga skte ho.
+
+
+
